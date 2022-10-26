@@ -51,7 +51,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarlemon&theme=vue-dark&show_icons=true)![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sarlemon&theme=vue-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarlemon&theme=vue-dark&show_icons=true)
 
 ---
 
