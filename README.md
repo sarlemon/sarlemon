@@ -22,7 +22,6 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :speech_balloon: Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
  
@@ -48,12 +47,10 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
 
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarlemon&theme=vue-dark&show_icons=true)
 
----
 
 ### :writing_hand: Blog Posts :
 
